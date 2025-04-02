@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on my own small-scale projects to keep learning about new or current technologies that I enjoy working with.<br>I'm also looking to start working in any job that will help me grow as a developer and get the experience of working with a big team.<br>I'm currently learning TypeScript but I'm open to research anything.<br><br>Fun fact, I'm half Spanish / half English and have been working as a waiter in the service industry for over 5 years!
+I'm currently working on my own small-scale projects to keep learning about new or current technologies that I enjoy working with.<br>I'm also looking to start working in any job that will help me grow as a developer and get the experience of working with a big team.<br>Fun fact, I'm half Spanish / half English and have been working as a waiter in the service industry for over 5 years!
 
 
 ## 🌐 Socials:
